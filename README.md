@@ -59,7 +59,6 @@ and I constantly improve myself by building real projects.
 ---
 
 ## 🎯 Current Focus
-- Improving mobile app architecture and UI/UX
 - Developing more advanced Unity gameplay systems
 - Strengthening problem-solving and software design skills
 
