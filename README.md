@@ -62,13 +62,23 @@ and I constantly improve myself by building real projects.
 - Developing more advanced Unity gameplay systems
 - Strengthening problem-solving and software design skills
 
+
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YunusEmre1213&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YunusEmre1213&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunusEmre1213&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YunusEmre1213&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmre1213&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmre1213&layout=compact&theme=tokyonight" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YunusEmre1213&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunusEmre1213&theme=tokyo-night" />
+</p>
+
 
