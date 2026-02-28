@@ -26,12 +26,6 @@ and I constantly improve myself by building real projects.
 - Apply **Object-Oriented Programming (OOP)** principles
 - Design modular and reusable code structures
 
-### 📱 Mobile Application Development
-- Develop cross-platform mobile apps using **.NET MAUI**
-- Design UI with **XAML**
-- Apply **MVVM architecture**
-- Manage navigation, pages, and app lifecycle
-- 
 ### 📊 Data Analysis
 - Analyze datasets using **Python**
 - Use libraries such as **Pandas, NumPy, Matplotlib**
